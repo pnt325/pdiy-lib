@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "ptc.h": "c",
+        "core_ptc.h": "c",
+        "core_ptc_crc.h": "c"
+    }
+}
